@@ -1,4 +1,4 @@
-import { authenticate } from "../shopify.server";
+import { authenticate } from "../../shopify.server";
 
 const STORE_NAMES = [
   "Burnside",
